@@ -27,7 +27,7 @@ Af og til, og især når vi har gæstelærere fra udlandet har vi én workshops 
 Tilmelding til faggruppen kan ske via medlemsafd@bf.dk. Prisen er 240,- kr. årligt for at være medlem 
 Kontakt gerne formand Jeannette Ekstrøm, jeek@dtu.dk eller andre fra bestyrelsen, hvis yderligere information ønskes inden evt. indmeldelse. 
 
-Klik [her](link) for at se vores udbyd af kurser og events.\
+Klik [her](event.md) for at se vores udbyd af kurser og events.\
 KLIK på datoen for at læse mere og tilmelde dig! (ENG) markerer at der undervises på engelsk, (DK) på dansk. 
 
 
